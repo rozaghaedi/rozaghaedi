@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write            # <— let the job push to 'output' branch
+  contents: write            # allow pushing a commit
 
 jobs:
   build:
@@ -18,11 +18,12 @@ jobs:
           github_user_name: rozaghaedi
           outputs: dist/snake.svg
 
-      - name: Publish to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      # Deploy the generated file to the 'output' branch
+      - name: Deploy to output branch
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          target_branch: output
-          build_dir: dist
-          keep_history: true
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: ./dist
+          force_orphan: true
+
