@@ -39,7 +39,8 @@
 ---
 
 ## 🐍 Contribution Snake
-![snake gif](https://raw.githubusercontent.com/rozaghaedi/rozaghaedi/output/snake.svg)
+[![snake gif](https://raw.githubusercontent.com/rozaghaedi/rozaghaedi/output/snake.svg)](https://raw.githubusercontent.com/rozaghaedi/rozaghaedi/output/snake.svg
+)
 
 
 ---
