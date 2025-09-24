@@ -1,9 +1,5 @@
-# Hi 👋, I’m Rosa Ghaedi  
-
-🎓 MSc in Computer Science | Manchester Metropolitan University  
-💡 Passionate about Deep Learning, Computer Vision, and Natural Language Processing  
-
-
+# Hello! I'm Rosa — Software Developer  
+### I build ML systems for CV and NLP.
 
 ### 🌐 Connect with me
 <p>
