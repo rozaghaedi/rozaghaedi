@@ -3,45 +3,54 @@
 🎓 MSc in Computer Science | Manchester Metropolitan University  
 💡 Passionate about Deep Learning, Computer Vision, and Natural Language Processing  
 
----
-
-## 🌐 Connect with me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rosa-ghaedi-b15329231/)  
-[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:rozaghaedi90@gmail.com)  
-
----
-
-## 🛠️ Skills  
-
-**Programming Languages**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  
-![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)  
-
-**AI & ML**  
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)  
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)  
-![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)  
-
-**Databases & Tools**  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)  
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
-![LaTeX](https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=white)  
-
----
-
-## 📊 GitHub Stats  
-![Rosa’s GitHub stats](https://github-readme-stats.vercel.app/api?username=rozaghaedi&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rozaghaedi&layout=compact&theme=radical)  
-
----
-
-## 🐍 Contribution Snake
-[![snake gif](https://raw.githubusercontent.com/rozaghaedi/rozaghaedi/output/snake.svg)](https://raw.githubusercontent.com/rozaghaedi/rozaghaedi/output/snake.svg
-)
 
 
----
+### 🌐 Connect with me
+<p>
+  <a href="https://www.linkedin.com/in/rosa-ghaedi-b15329231/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="36" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:rozaghaedi90@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="36" alt="Gmail"/>
+  </a>
+</p>
+
+
+
+
+### Skills
+
+**Programming Languages**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="36" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="36" alt="C#"/>
+</p>
+
+**AI & ML**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="36" alt="PyTorch"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="36" alt="TensorFlow"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="36" alt="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="36" alt="NumPy"/>
+</p>
+
+**Databases & Tools**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="36" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="36" alt="SQLite"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="36" alt="LaTeX"/>
+</p>
+
+
+
+## 📊 GitHub Stats
+| | |
+|---|---|
+| <img src="https://github-readme-stats.vercel.app/api?username=rozaghaedi&show_icons=true&theme=radical" alt="stats"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rozaghaedi&layout=compact&theme=radical" alt="langs"/> |
+
+
+
 ⭐ *Always excited to collaborate on novel AI/ML projects involving image, text, and multimodal learning.*
