@@ -13,7 +13,6 @@
 ⭐ *Always excited to collaborate on novel AI/ML projects involving image, text, and multimodal learning.*
 
 
-### Skills
 
 ****Programming Languages****
 <p>
