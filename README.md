@@ -13,25 +13,6 @@
 ⭐ *Always excited to collaborate on novel AI/ML projects involving image, text, and multimodal learning.*
 
 
-
-
-
-
-
-
-### 🌐 Connect with me
-<p>
-  <a href="https://www.linkedin.com/in/rosa-ghaedi-b15329231/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="36" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:rozaghaedi90@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="36" alt="Gmail"/>
-  </a>
-</p>
-
-
-
 ### Skills
 
 ****Programming Languages****
@@ -56,6 +37,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="36" alt="LaTeX"/>
 </p>
+
+
+
+### 🌐 Connect with me
+<p>
+  <a href="https://www.linkedin.com/in/rosa-ghaedi-b15329231/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="36" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:rozaghaedi90@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="36" alt="Gmail"/>
+  </a>
+</p>
+
 
 
 
