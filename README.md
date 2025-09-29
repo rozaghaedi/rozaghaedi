@@ -1,4 +1,4 @@
-# Hello! I'm Rosa — Software Developer  
+# Hello! I'm Rosa — a Software Engineer 
 ### I build ML systems for CV and NLP.
 
 ### 🌐 Connect with me
