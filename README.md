@@ -1,4 +1,4 @@
-# Hello! I'm Rosa — a Software Engineer 
+# Hello! I’m Rosa, a Research Associate and MSc Computer Science graduate specializing in Machine Learning and Software Engineering. My projects bridge computer vision, NLP, and multimodal learning for real-world applications.
 ### I build ML systems for CV and NLP.
 
 
