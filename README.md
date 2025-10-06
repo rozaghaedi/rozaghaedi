@@ -4,12 +4,11 @@
 <p align="center">
   🎓 MSc in Computer Science <br>
   💡 Specializing in Machine Learning, Computer Vision, and Natural Language Processing<br>
-  🌍 United Kingdom
 </p>
 
 ---
 
-### 🧠 About Me
+### About Me
 I’m a Research Associate and MSc Computer Science graduate passionate about developing intelligent systems that bridge Computer Vision, NLP, and multimodal learning for real-world impact.  
 My work blends software engineering and machine learning research, from RESTful web development to deep learning architectures and topic modeling in text analytics.
 
