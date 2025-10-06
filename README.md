@@ -2,7 +2,7 @@
 <h2 align="center">👋 Hi, I’m Rosa Ghaedi</h2>
 
 <p align="center">
-  🎓 Research Associate· MSc in Computer Science <br>
+  🎓 MSc in Computer Science <br>
   💡 Specializing in Machine Learning, Computer Vision, and Natural Language Processing<br>
   🌍 United Kingdom
 </p>
