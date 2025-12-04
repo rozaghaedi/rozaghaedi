@@ -43,13 +43,6 @@ My work blends software engineering and machine learning research, from RESTful 
 
 ---
 
-### 📊 GitHub Stats
-
-| | |
-|---|---|
-| <img src="https://github-readme-stats.vercel.app/api?username=rozaghaedi&show_icons=true&theme=tokyonight" alt="Rosa's GitHub Stats"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rozaghaedi&layout=compact&theme=tokyonight" alt="Top Languages"/> |
-
----
 
 ### 🌐 Connect with Me
 <p>
