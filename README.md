@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h2 align="center">👋 Hi, I’m Rosa Ghaedi</h2>
+<h2 align="center">👋 Hi, I’m Roza Ghaedi</h2>
 
 <p align="center">
   🎓 MSc in Computer Science <br>
