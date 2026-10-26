@@ -1,10 +1,5 @@
 👋 Hi, I’m Roza Ghaedi
 
-<p align="center">
-  <strong>PhD Researcher at Cardiff University</strong>
-</p>
-
-
 -----
 
 I am a PhD researcher at Cardiff University with an MSc in Computer Science and a background in software engineering and applied AI research.
