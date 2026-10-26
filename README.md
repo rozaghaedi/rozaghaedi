@@ -1,66 +1,17 @@
-<!-- Profile Header -->
-<h2 align="center">👋 Hi, I’m Roza Ghaedi</h2>
+👋 Hi, I’m Roza Ghaedi
 
 <p align="center">
-  🎓 MSc in Computer Science <br>
-  💡 Specializing in Machine Learning, Computer Vision, and Natural Language Processing<br>
+  <strong>PhD Researcher at Cardiff University</strong>
 </p>
 
----
+⸻
 
-### About Me
-I’m a Research Associate and MSc Computer Science graduate passionate about developing intelligent systems that bridge Computer Vision, NLP, and multimodal learning for real-world impact.  
-My work blends software engineering and machine learning research, from RESTful web development to deep learning architectures and topic modeling in text analytics.
+🔬 About Me
 
-⭐ *Always excited to collaborate on innovative AI/ML projects involving image, text, and multimodal fusion.*
+I am a PhD researcher at Cardiff University with an MSc in Computer Science and a background in software engineering and applied AI research.
 
----
+My current research focuses on AI in healthcare, exploring how AI and operational research can help reduce inequalities in access to healthcare, particularly within NHS Wales.
 
-### ⚙️ Tech Stack
+My broader research interests include ML, DL, GNN, NLP, and responsible AI. I am interested in developing data-driven approaches that address complex real-world challenges and support fairer, evidence-based decision-making.
 
-#### 🖥️ Programming Languages
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="36" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="36" alt="C#"/>
-</p>
-
-#### 🤖 AI & Machine Learning
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="36" alt="PyTorch"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="36" alt="TensorFlow"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="36" alt="Pandas"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="36" alt="NumPy"/>
-</p>
-
-#### 🗄️ Databases & Tools
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="36" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="36" alt="SQLite"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="36" alt="LaTeX"/>
-</p>
-
----
-
-
-### 🌐 Connect with Me
-<p>
-  <a href="https://www.linkedin.com/in/rosa-ghaedi-b15329231/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="36" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:rozaghaedi90@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="36" alt="Gmail"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://leetcode.com/u/Rosa-Ghaedi/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=leetcode" height="36" alt="LeetCode"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  💬 “Turning complex data into intelligent solutions — one model at a time.”  
-</p>
+Before beginning my PhD, I gained several years of software engineering experience, including backend development, database systems, and legacy system migration.
